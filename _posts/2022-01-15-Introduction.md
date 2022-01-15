@@ -1,1 +1,4 @@
-Hello I'm Vedamgi Bhujang.
+---
+title: Welcome to my blog!
+date: 2022-01-15
+---
